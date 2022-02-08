@@ -1,4 +1,4 @@
-## Olá! Sou o Alexsandro 👋
+## Oi, Seja bem-vindo! 👋
 <div>
   <a href="https://github.com/AlexsandroCampos">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=AlexsandroCampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
